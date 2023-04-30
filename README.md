@@ -16,8 +16,11 @@ This is a virtual lab project created for the course of Computer Organization an
 - **Number system convertor:** This is a simple number system converter that allows users to convert numbers between different number systems such as binary, decimal, octal, and hexadecimal. It provides an easy-to-use interface for users to enter a number in one system and get its equivalent value in another system. The tool can be useful for computer science students, programmers, and anyone who needs to work with different number systems in their daily tasks.
 
 - **AC Mate:** An air conditioning mate that is controlled by three variables: *temperature (T), humidity (H), and the time of the day (D)*. The AC unit turns on under any of the following circumstances:
+
   (a) The temperature exceeds 80<sup>o</sup>F, and the time of the day is between 9AM to 6PM.
+  
   (b) The humidity exceeds 70%, the temperature exceeds 80<sup>o</sup>F, and the time of the day is between 9AM to 6PM.
+  
   (c) The humidity exceeds 70%, the temperature exceeds 80<sup>o</sup>F, and it is a weekend.
   
 - **Gray Modulo-10 Convertor:** This is a tool that helps to convert 4-bit binary numbers to their corresponding Gray code representation, and vice versa. The conversion is done modulo-10, meaning that the result is the decimal equivalent of the binary or Gray code number, with the exception that only the last digit (0-9) is kept. This tool is useful for students or professionals working in fields such as digital electronics or computer science, who need to perform conversions between binary and Gray code representations.
@@ -77,10 +80,6 @@ Intelephense is a high performance PHP language server packed full of essential 
 
 After completing these steps, you can start running PHP file in VSCode.
 
-## Screenshot
-
-<img width="960" alt="HomePage" src="https://user-images.githubusercontent.com/97979413/235374531-081e1c18-7a39-4a17-9b87-01c7bb84bfd8.png">
-
 ## Credits
 
 This project was created by Gunal Gupta and his team as a part of their coursework.
@@ -96,3 +95,7 @@ This project was created by Gunal Gupta and his team as a part of their coursewo
 ## License
 
 This project is licensed under the <ins>**MIT License**</ins>.
+
+## Screenshot
+
+<img width="960" alt="HomePage" src="https://user-images.githubusercontent.com/97979413/235374531-081e1c18-7a39-4a17-9b87-01c7bb84bfd8.png">
